@@ -1,0 +1,7 @@
+<map id="saaq::Camion::reqVehiculeFormate" name="saaq::Camion::reqVehiculeFormate">
+<area shape="rect" id="Node000001" title="Accesseur qui formate le Camion." alt="" coords="5,37,200,77"/>
+<area shape="rect" id="Node000002" href="$classsaaq_1_1Camion.html#a28c2b0b90f8670ad9502b6885ec3a8d5" title="Calcule la tarification annuelle." alt="" coords="248,5,489,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,43,234,39,235,44,201,48"/>
+<area shape="rect" id="Node000003" href="$classsaaq_1_1Vehicule.html#a416428886b694133ef1e2fa8fd33e93b" title="Accesseur qui formate le Vehicule." alt="" coords="269,69,469,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,66,255,73,254,78,200,72"/>
+</map>

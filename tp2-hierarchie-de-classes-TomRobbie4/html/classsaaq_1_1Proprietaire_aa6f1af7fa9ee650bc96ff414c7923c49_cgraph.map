@@ -1,0 +1,7 @@
+<map id="saaq::Proprietaire::ajouterVehicule" name="saaq::Proprietaire::ajouterVehicule">
+<area shape="rect" id="Node000001" title="Ajoute un véhicule au dossier en le clonant." alt="" coords="5,35,143,75"/>
+<area shape="rect" id="Node000002" href="$classsaaq_1_1Vehicule.html#ad79a96d061e521f6c64d35af482c050a" title="Méthode virtuelle pure pour calculer la tarification annuelle." alt="" coords="191,5,365,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,42,177,37,177,42,143,47"/>
+<area shape="rect" id="Node000003" href="$classsaaq_1_1Vehicule.html#a3225ebdd738e67ecb49579365ef6431e" title="Méthode virtuelle pure pour créer une copie dynamique du véhicule." alt="" coords="199,70,357,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,61,185,67,185,73,143,67"/>
+</map>

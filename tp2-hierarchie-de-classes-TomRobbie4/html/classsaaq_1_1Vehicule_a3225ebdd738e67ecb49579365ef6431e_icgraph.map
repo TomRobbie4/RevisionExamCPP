@@ -1,0 +1,5 @@
+<map id="saaq::Vehicule::clone" name="saaq::Vehicule::clone">
+<area shape="rect" id="Node000001" title="Méthode virtuelle pure pour créer une copie dynamique du véhicule." alt="" coords="191,13,349,38"/>
+<area shape="rect" id="Node000002" href="$classsaaq_1_1Proprietaire.html#aa6f1af7fa9ee650bc96ff414c7923c49" title="Ajoute un véhicule au dossier en le clonant." alt="" coords="5,5,143,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,28,143,28,143,23,177,23"/>
+</map>

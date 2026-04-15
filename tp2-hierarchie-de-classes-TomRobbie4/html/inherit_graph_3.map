@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,80,124,105"/>
+<area shape="rect" id="Node000001" href="$classContratException.html" title="Classe de base des exceptions de contrat." alt="" coords="172,80,307,105"/>
+<area shape="poly" id="edge4_Node000000_Node000001" title=" " alt="" coords="138,90,172,90,172,95,138,95"/>
+<area shape="rect" id="Node000002" href="$classAssertionException.html" title="Classe pour la gestion des erreurs d&#39;assertion." alt="" coords="369,5,515,31"/>
+<area shape="poly" id="edge5_Node000001_Node000002" title=" " alt="" coords="278,72,354,39,389,28,391,33,356,45,280,77"/>
+<area shape="rect" id="Node000003" href="$classInvariantException.html" title="Classe pour la gestion des erreurs d&#39;invariant." alt="" coords="370,55,514,80"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="320,80,370,74,370,79,321,85"/>
+<area shape="rect" id="Node000004" href="$classPostconditionException.html" title="Classe pour la gestion des erreurs de postcondition." alt="" coords="355,104,529,129"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="321,100,355,104,354,109,320,105"/>
+<area shape="rect" id="Node000005" href="$classPreconditionException.html" title="Classe pour la gestion des erreurs de précondition." alt="" coords="359,153,525,179"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="282,109,356,138,395,151,393,156,354,143,280,113"/>
+</map>

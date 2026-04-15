@@ -1,0 +1,8 @@
+<map id="saaq::Camion::asgImmatriculation" name="saaq::Camion::asgImmatriculation">
+<area shape="rect" id="Node000001" title="Mutateur du numéro d&#39;immatriculation." alt="" coords="5,47,252,72"/>
+<area shape="rect" id="Node000002" href="$classsaaq_1_1Vehicule.html#ad7dc9cc8c34b95d2ac8aa677edcafdc7" title="Mutateur du numéro d&#39;immatriculation." alt="" coords="300,5,551,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,44,320,30,321,35,221,49"/>
+<area shape="rect" id="Node000003" href="$validationFormat_8cpp.html#a61af20af40c6c849a6bf14cae15f9eb7" title="Valide le format du numéro d&#39;immatriculation d&#39;un camion." alt="" coords="320,79,531,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,69,307,81,306,86,223,75"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="371,80,367,70,376,60,396,55,425,53,459,55,478,63,476,68,458,61,425,58,397,60,379,65,373,71,376,78"/>
+</map>

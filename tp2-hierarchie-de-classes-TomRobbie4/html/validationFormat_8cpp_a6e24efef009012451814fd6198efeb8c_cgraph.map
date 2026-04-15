@@ -1,0 +1,13 @@
+<map id="saaq::validerFormatFichier" name="saaq::validerFormatFichier">
+<area shape="rect" id="Node000001" title="Valide le format complet du fichier (NIV puis Plaque)" alt="" coords="5,125,200,150"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="62,126,53,116,58,106,75,100,103,98,138,102,148,107,152,112,147,115,145,111,137,107,103,103,76,105,61,110,59,116,66,123"/>
+<area shape="rect" id="Node000002" href="$validationFormat_8cpp.html#a61af20af40c6c849a6bf14cae15f9eb7" title="Valide le format du numéro d&#39;immatriculation d&#39;un camion." alt="" coords="248,29,459,69"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="134,122,247,79,270,71,272,76,249,84,136,127"/>
+<area shape="rect" id="Node000003" href="$validationFormat_8cpp.html#a18e080a5139e11192671d5c179664b1d" title="Valide le format du numéro d&#39;immatriculation d&#39;un véhicule de promenade." alt="" coords="248,117,459,157"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="200,135,234,135,234,140,200,140"/>
+<area shape="rect" id="Node000004" href="$validationFormat_8cpp.html#aaed1c682e11c69995ca84d12e41d6c3f" title="Valide le Numéro d&#39;Identification du Véhicule (NIV)" alt="" coords="289,206,417,231"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="144,148,301,199,299,204,142,153"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="307,30,304,20,311,10,328,5,353,3,382,6,398,13,396,18,381,11,353,8,329,10,314,15,309,21,312,28"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="307,118,304,108,311,98,328,93,353,91,382,94,398,101,396,106,381,99,353,96,329,98,314,103,309,109,312,116"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="313,208,304,198,308,188,325,182,353,179,389,183,399,188,403,194,398,197,395,192,387,188,353,185,326,187,312,192,309,197,317,204"/>
+</map>

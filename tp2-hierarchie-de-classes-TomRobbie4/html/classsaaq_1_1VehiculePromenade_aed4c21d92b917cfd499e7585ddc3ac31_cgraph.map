@@ -1,0 +1,7 @@
+<map id="saaq::VehiculePromenade::reqVehiculeFormate" name="saaq::VehiculePromenade::reqVehiculeFormate">
+<area shape="rect" id="Node000001" title="Accesseur qui formate le VehiculePromenade." alt="" coords="5,37,196,77"/>
+<area shape="rect" id="Node000002" href="$classsaaq_1_1VehiculePromenade.html#a63417f9fef156c92d9473dcc0e1ee2de" title="Calcule la tarification annuelle." alt="" coords="244,5,453,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,42,230,38,231,43,196,48"/>
+<area shape="rect" id="Node000003" href="$classsaaq_1_1Vehicule.html#a416428886b694133ef1e2fa8fd33e93b" title="Accesseur qui formate le Vehicule." alt="" coords="249,69,449,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,67,235,72,235,77,196,72"/>
+</map>

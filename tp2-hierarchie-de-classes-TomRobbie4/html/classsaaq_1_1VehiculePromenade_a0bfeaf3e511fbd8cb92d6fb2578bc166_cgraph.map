@@ -1,0 +1,6 @@
+<map id="saaq::VehiculePromenade::VehiculePromenade" name="saaq::VehiculePromenade::VehiculePromenade">
+<area shape="rect" id="Node000001" title="Constructeur de VehiculePromenade." alt="" coords="5,29,196,69"/>
+<area shape="rect" id="Node000002" href="$validationFormat_8cpp.html#a18e080a5139e11192671d5c179664b1d" title="Valide le format du numéro d&#39;immatriculation d&#39;un véhicule de promenade." alt="" coords="244,29,455,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,47,230,47,230,52,196,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="303,30,300,20,308,10,324,5,349,3,378,6,394,13,392,18,377,11,349,8,325,10,311,15,306,21,308,28"/>
+</map>

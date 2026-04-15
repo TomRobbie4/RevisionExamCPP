@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classsaaq_1_1Vehicule.html" title="Classe de base abstraite représentant un véhicule." alt="" coords="5,55,121,80"/>
+<area shape="rect" id="Node000001" href="$classVehiculeDeTest.html" title="Classe factice (Mock) pour tester la classe abstraite Vehicule. Elle permet d&#39;instancier un objet dér..." alt="" coords="204,5,325,31"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="128,49,211,28,213,33,130,54"/>
+<area shape="rect" id="Node000002" href="$classsaaq_1_1Camion.html" title="Classe représentant un camion, qui hérite de Vehicule." alt="" coords="209,55,320,80"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="135,65,209,65,209,70,135,70"/>
+<area shape="rect" id="Node000003" href="$classsaaq_1_1VehiculePromenade.html" title="Classe représentant un véhicule de promenade, qui hérite de Vehicule." alt="" coords="169,104,360,129"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="130,81,213,101,211,107,128,86"/>
+</map>

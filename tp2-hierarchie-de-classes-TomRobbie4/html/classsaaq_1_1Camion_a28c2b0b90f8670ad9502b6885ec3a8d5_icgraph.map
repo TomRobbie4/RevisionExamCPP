@@ -1,0 +1,5 @@
+<map id="saaq::Camion::calculerTarificationAnnuelle" name="saaq::Camion::calculerTarificationAnnuelle">
+<area shape="rect" id="Node000001" title="Calcule la tarification annuelle." alt="" coords="248,5,489,45"/>
+<area shape="rect" id="Node000002" href="$classsaaq_1_1Camion.html#aa9e16c5054f0431244ab6f9f5da1f644" title="Accesseur qui formate le Camion." alt="" coords="5,5,200,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,28,200,28,200,23,234,23"/>
+</map>

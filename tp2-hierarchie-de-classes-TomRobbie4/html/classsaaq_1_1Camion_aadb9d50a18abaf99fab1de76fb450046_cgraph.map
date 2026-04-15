@@ -1,0 +1,6 @@
+<map id="saaq::Camion::Camion" name="saaq::Camion::Camion">
+<area shape="rect" id="Node000001" title="Constructeur de Camion." alt="" coords="5,37,175,62"/>
+<area shape="rect" id="Node000002" href="$validationFormat_8cpp.html#a61af20af40c6c849a6bf14cae15f9eb7" title="Valide le format du numéro d&#39;immatriculation d&#39;un camion." alt="" coords="223,29,433,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,47,209,47,209,52,175,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="284,30,281,20,288,10,304,5,328,3,356,6,371,13,368,18,354,11,328,8,305,10,291,15,286,21,289,28"/>
+</map>

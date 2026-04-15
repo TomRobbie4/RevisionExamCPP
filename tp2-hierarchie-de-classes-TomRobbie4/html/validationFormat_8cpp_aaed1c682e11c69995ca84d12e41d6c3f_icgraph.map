@@ -1,0 +1,9 @@
+<map id="saaq::validerNiv" name="saaq::validerNiv">
+<area shape="rect" id="Node000001" title="Valide le Numéro d&#39;Identification du Véhicule (NIV)" alt="" coords="248,55,376,80"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="349,45,339,37,312,33,290,35,278,40,276,46,282,53,278,56,271,46,274,36,289,30,312,28,341,32,352,41"/>
+<area shape="rect" id="Node000002" href="$validationFormat_8cpp.html#a6e24efef009012451814fd6198efeb8c" title="Valide le format complet du fichier (NIV puis Plaque)" alt="" coords="5,29,200,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,61,200,56,201,51,235,55"/>
+<area shape="rect" id="Node000003" href="$classsaaq_1_1Vehicule.html#abc7093d3f943a1af30ff9f86ccc1f5bb" title="Constructeur de Vehicule." alt="" coords="13,79,192,104"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="234,79,193,84,192,78,234,74"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="140,20,130,11,103,8,81,10,69,15,66,20,73,28,69,31,61,21,65,11,79,5,103,3,132,6,143,15"/>
+</map>

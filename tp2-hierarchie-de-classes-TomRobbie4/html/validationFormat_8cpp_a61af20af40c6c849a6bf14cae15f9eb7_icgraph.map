@@ -1,0 +1,11 @@
+<map id="saaq::validerImmatriculationCamion" name="saaq::validerImmatriculationCamion">
+<area shape="rect" id="Node000001" title="Valide le format du numéro d&#39;immatriculation d&#39;un camion." alt="" coords="300,47,511,87"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="452,36,436,29,405,26,379,28,362,33,357,39,360,46,355,48,351,38,360,28,378,23,405,21,437,23,454,31"/>
+<area shape="rect" id="Node000002" href="$classsaaq_1_1Camion.html#abbed47a4abf11a7f58ab1fa44949d3d1" title="Mutateur du numéro d&#39;immatriculation." alt="" coords="5,5,252,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="286,49,200,33,201,28,287,44"/>
+<area shape="rect" id="Node000003" href="$classsaaq_1_1Camion.html#aadb9d50a18abaf99fab1de76fb450046" title="Constructeur de Camion." alt="" coords="44,55,213,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="286,70,214,70,214,65,286,65"/>
+<area shape="rect" id="Node000004" href="$validationFormat_8cpp.html#a6e24efef009012451814fd6198efeb8c" title="Valide le format complet du fichier (NIV puis Plaque)" alt="" coords="31,128,226,153"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="316,94,178,130,177,125,315,88"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="178,119,175,114,167,111,129,107,99,109,83,114,80,119,88,126,84,130,75,120,80,110,98,103,129,101,168,105,179,110,182,116"/>
+</map>

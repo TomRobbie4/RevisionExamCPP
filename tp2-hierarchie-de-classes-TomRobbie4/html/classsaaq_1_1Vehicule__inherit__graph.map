@@ -1,0 +1,9 @@
+<map id="saaq::Vehicule" name="saaq::Vehicule">
+<area shape="rect" id="Node000001" title="Classe de base abstraite représentant un véhicule." alt="" coords="148,5,264,31"/>
+<area shape="rect" id="Node000002" href="$classVehiculeDeTest.html" title="Classe factice (Mock) pour tester la classe abstraite Vehicule. Elle permet d&#39;instancier un objet dér..." alt="" coords="5,79,127,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,39,90,81,88,76,170,34"/>
+<area shape="rect" id="Node000003" href="$classsaaq_1_1Camion.html" title="Classe représentant un camion, qui hérite de Vehicule." alt="" coords="151,79,261,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,44,209,79,203,79,203,44"/>
+<area shape="rect" id="Node000004" href="$classsaaq_1_1VehiculePromenade.html" title="Classe représentant un véhicule de promenade, qui hérite de Vehicule." alt="" coords="285,79,476,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="248,33,353,76,351,81,246,38"/>
+</map>
